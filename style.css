@@ -47,6 +47,9 @@
     float: left;
     height: 70px;
 }
+.h1{
+    width: 10px;
+}
 
 ul{
     float: left;
@@ -239,7 +242,6 @@ ul li a:hover{
     font-weight: bold;
 }
 .form .link{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     padding-top: 20px;
     text-align: center;
@@ -266,4 +268,22 @@ ul li a:hover{
 }
 .icons ion-icon:hover{
     color: #ff7200;
+}
+.home{
+    background-color: #f5f5f5;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+}
+.about {
+    background-color: #f5f5f5;
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+}
+.contact{
+    background-color: #f5f5f5;
+    padding: 30px;
+    text-align: center;
+    width: 100%;
 }
